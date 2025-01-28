@@ -1,0 +1,4 @@
+mkdir $HOME/python_ide
+export PROJECT_DIR="$HOME/python_ide"
+export SCRIPT_FILE="$PROJECT_DIR/script.py"
+export OUTPUT_FILE="$PROJECT_DIR/output.txt"
