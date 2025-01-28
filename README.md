@@ -1,2 +1,2 @@
 # vimpython
-Using Vim as Python editor
+Using nano as Python editor
