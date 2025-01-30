@@ -1,5 +1,5 @@
 # vimpython
-Using nano as Python editor
+Using vim as Python editor
 ---------------------------
 
 To run execute:
