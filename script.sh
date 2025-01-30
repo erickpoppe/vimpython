@@ -4,7 +4,7 @@
 PROJECT_DIR="$HOME/python_ide"
 SCRIPT_FILE="$PROJECT_DIR/script.py"
 OUTPUT_FILE="$PROJECT_DIR/output.txt"
-EDITOR=$(which nano) 
+EDITOR=$(which vim) 
 
 # Create project directory if it doesn't exist
 mkdir -p "$PROJECT_DIR"
